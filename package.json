@@ -1,0 +1,28 @@
+{
+  "name": "objz",
+  "version": "1.0.0",
+  "description": "Easily create an object with a variable as a key",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniloprates/objz.git"
+  },
+  "keywords": [
+    "obj",
+    "variable",
+    "lodash",
+    "object",
+    "dynamic",
+    "get",
+    "omit"
+  ],
+  "author": "Danilo Prates <daniloprates@gmail.com> (https://github.com/daniloprates)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daniloprates/objz/issues"
+  },
+  "homepage": "https://github.com/daniloprates/objz#readme"
+}
